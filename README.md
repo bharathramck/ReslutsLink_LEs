@@ -2,7 +2,7 @@
 
    # 📄 JNTUA B.Tech Results (R20 Regulation)
 
-This repository contains direct links to various **JNTUA B.Tech (R20) Regular and Supplementary Examination Results** for II and III years.
+This repository contains direct links to various **JNTUA B.Tech (R20) Regular and Supplementary Examination Results** for II, III and IV years.
 
 ---
 
