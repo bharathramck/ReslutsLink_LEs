@@ -20,6 +20,9 @@ This repository contains direct links to various **JNTUA B.Tech (R20) Regular an
 - 🔹 **Supplementary (April/May 2025):**  
   [View Results](https://jntuaresults.ac.in/view-results?resultSetId=401d50b6-b968-497e-972b-9567bc6d3b25)
 
+- 🔹 **Supplementary (November 2025):**  
+  [View Results](https://jntuaresults.ac.in/view-results?resultSetId=7f88965b-dd8f-43a4-a320-10bdc72c899c)
+
 ---
 
 ## 📚 II Year II Semester (R20)
@@ -32,6 +35,9 @@ This repository contains direct links to various **JNTUA B.Tech (R20) Regular an
 
 - 🔹 **Supplementary (April 2025):**  
   [View Results](https://jntuaresults.ac.in/view-results?resultSetId=4db98ae9-cc9d-443e-9b2b-04874a2e6c4e)
+
+- 🔹 **Supplementary (November 2025):**  
+  [View Results](https://jntuaresults.ac.in/view-results?resultSetId=43f061fa-2b05-4587-ba1d-04235d69c11c)
 
 ---
 
