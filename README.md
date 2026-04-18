@@ -74,7 +74,7 @@ This repository contains direct links to various **JNTUA B.Tech (R20) Regular an
 ## 📚 IV Year II Semester (R20)
 
 - 🔹 **Regular & Supplementary (April 2026):**  
-  [View Results](https://jntuaresults.ac.in/view-results?resultSetId=72ceadb6-1291-41a1-84d0-563e20b81fec)
+  [View Results](https://jntuaresults.ac.in/view-results?resultSetId=c75a5e21-0ab7-406d-9a94-a96086bbbd75)
 
 ---
 
